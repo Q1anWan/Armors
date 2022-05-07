@@ -1,3 +1,4 @@
+printf("Hello World!");
 1.本开源项目仅限于RoboMaster各参赛队之间技术交流使用，不得用于任何商用行为；
 2.千万(qianwan233@foxmail.com)享有本开源项目全部内容(包含且不限于原理图、PCB设计图、源代码、开源文档)的最终解释权；
 3.本开源项目采用的协议为The MIT LICENSE；
